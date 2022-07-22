@@ -56,8 +56,8 @@
 > (1) **[스타인유](https://starinu.inu.ac.kr/index.do):** `공식` 상담신청 및 결과공유 `플랫폼`이나 (매우느린 언젠가)  
 > (2) **[카카오톡채널](http://pf.kakao.com/_Exfqqb):** 카카오톡 채널에서 `김경원 교수` 검색하여 확인 가능 (`빠른 실시간`)    
 > (3) **[INU LMS](http://cyber.inu.ac.kr/) 내 메시지:** (`느린 실시간`)         
-> (4) **이메일:** thekimk.kr@gmail.com, kk@inu.ac.kr (`느린 실시간`)        
-> (5) **전화:** 032-835-8525 (`긴급 실시간`)        
-> (6) **[KK-Insight](https://github.com/thekimk/KK-Insight):** Github 저장소 `크크인싸이트(KK-Insight)`에 관련내용 공유중 또는 토론 가능
+> (4) **[KK-Insight](https://github.com/thekimk/KK-Insight):** `크크인싸이트` 저장소에 관련내용 공유중 또는 토론 가능(`느린 실시간`)
+> (5) **이메일:** thekimk.kr@gmail.com, kk@inu.ac.kr (`느린 실시간`)        
+> (6) **전화:** 032-835-8525 (`긴급 실시간`)        
 >
 - **[오프라인]** 수업 전/중/후 바로 `언제든` 가능하지만, 위 채널들로 미리 `일정잡고 오피스(14호관 422호)`에서 진행    
