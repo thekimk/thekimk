@@ -2,7 +2,6 @@
 - **Assistant Professor in Division of International Trade**
 - **Head of [`Digital Economy & Intelligent Applications Lab`](https://sites.google.com/view/thekimk) (DEIA Lab)**
 - **College of Global Political Science and Economics**
-- **Incheon National University (INU)**
 
 ## 📚 Lecture Material & Environment
 - **공지사항/메시지/강의영상 공유:** (인천대 경우) [LMS](http://cyber.inu.ac.kr/) $\rightarrow$ 개인정보(전화번호 & 이메일 등) `업데이트 필수`
