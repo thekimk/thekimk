@@ -1,5 +1,5 @@
 # ✔️ KIM KYUNGWON
-- **Head of [`Digital Economy & Intelligent Applications Lab`](https://sites.google.com/view/thekimk) (DEIA Lab)**
+- **Head of [`Digital Economy & Intelligent Applications Lab`](https://sites.google.com/view/thekimk)**
 - **Assistant Professor in Division of International Trade**
 - **College of Global Political Science and Economics**
 
