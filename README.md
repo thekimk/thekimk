@@ -1,7 +1,7 @@
-# ✔️ KIM KYUNGWON
-- **Head of [`Digital Economy & Intelligent Applications Lab`](https://sites.google.com/view/thekimk)**
-- **Assistant Professor in Division of International Trade**
-- **College of Global Political Science and Economics**
+# ✔️ KIM KYUNGWON <a href="https://sites.google.com/view/thekimk" target="_blank"><img src="https://img.shields.io/badge/Homepage-4285F4?style=flat-square&logo=Google&logoColor=white"/></a>
+- **`Head of Digital Economy & Intelligent Applications Lab`** 
+- **`Assistant Professor in Division of International Trade`**
+- **`College of Global Political Science and Economics`**
 
 ## 📚 Lecture Material & Environment
 - **공지사항/메시지/강의영상 공유:** (인천대 경우) [LMS](http://cyber.inu.ac.kr/) $\rightarrow$ 개인정보(전화번호 & 이메일 등) `업데이트 필수`
