@@ -1,6 +1,6 @@
 # ✔️ KIM KYUNGWON <a href="https://sites.google.com/view/thekimk" target="_blank"><img src="https://img.shields.io/badge/Homepage-4285F4?style=flat-square&logo=Google&logoColor=white"/></a>
 - **`Head of Digital Economy & Intelligent Applications Lab`** 
-- **`Assistant Professor in Division of International Trade`**
+- **`Assistant Professor in School of International Trade and Business`**
 - **`College of Global Political Science and Economics`**
 
 ## 📚 Lecture Material & Environment
