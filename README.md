@@ -10,8 +10,8 @@
 | 목적 및 강의명 | 이론 및 실습 자료 저장소명 |
 |---|---|
 | **`미래 인생 고민 및 설계`** | [KK-Insight](https://github.com/thekimk/KK-Insight) |
-| **`데이터사이언스 수업방향`** | [Curriculum-Guide](https://github.com/thekimk/Curriculum-Guide) |
-| **`E정보시스템`(23년부터 `디지털경제및데이터비즈니스개론`)** | [이론] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [실습] [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
+| **`수업방향`** | [Curriculum-Guide](https://github.com/thekimk/Curriculum-Guide) |
+| **`E정보시스템`(23년부터 `디지털경제및데이터사이언스개론`)** | [이론] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [실습] [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
 | **`E데이터베이스`(23년부터 `비즈니스애널리틱스`)** |  |
 | **`빅데이터`(23년부터 `인공지능의사결정`)** |  |
 | **`비즈니스혁신을위한데이터사이언스응용`** | [이론] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [실습] [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
