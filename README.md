@@ -15,7 +15,7 @@
 | **`E데이터베이스`(23년부터 `비즈니스애널리틱스`)** |  |
 | **`빅데이터`(23년부터 `인공지능의사결정`)** |  |
 | **`비즈니스혁신을위한데이터사이언스응용`** | [이론] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [실습] [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
-| **`인공지능활용디지털경제플랫폼연구`** | [이론1] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [이론2 & 실습] 미정 |
+| **`인공지능활용디지털경제플랫폼연구`** | [이론1] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [이론2]  <br> [실습] |
 | **`금융데이터 사이언스`** | [All-About-Financial-Data-Science](https://github.com/thekimk/All-About-Financial-Data-Science) |
 
 ## ✋ Direction 
