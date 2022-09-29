@@ -4,8 +4,7 @@
 - **`Incheon National University (INU)`**
 
 ## 📚 Lecture Material & Environment
-- **이론/실습 자료 공유:** 아래에서 `목적 또는 강의`에 따라 선택
-- **(인천대) 공지사항/메시지/강의영상 공유:** [LMS](http://cyber.inu.ac.kr/) $\rightarrow$ 개인정보(전화번호 & 이메일 등) `업데이트 필수`
+- **이론/실습 강의자료 공유:** 아래에서 `목적 또는 강의`에 따라 선택
 
 | 목적 및 강의명 | 이론 및 실습 자료 저장소명 |
 |---|---|
@@ -17,6 +16,8 @@
 | **`비즈니스혁신을위한데이터사이언스응용`** | [이론] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [실습] [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
 | **`인공지능활용디지털경제플랫폼연구`** | [이론1] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [이론2 & 실습] [Business-Data-Analytics](https://github.com/thekimk/Business-Data-Analytics) |
 | **`금융데이터 사이언스`** | [이론 & 실습] [All-About-Financial-Data-Science](https://github.com/thekimk/All-About-Financial-Data-Science) |
+
+- **(인천대) 공지사항/메시지/강의영상 공유:** [LMS](http://cyber.inu.ac.kr/) $\rightarrow$ 개인정보(전화번호 & 이메일 등) `업데이트 필수`
 
 ## ✋ Direction 
 - **[강의영상]:** 오프라인 및 온라인과 무관하게 `모든 강의영상`은 LMS에 업로드   
