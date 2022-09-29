@@ -16,7 +16,7 @@
 | **`빅데이터`(23년부터 `인공지능의사결정`)** |  |
 | **`비즈니스혁신을위한데이터사이언스응용`** | [이론] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [실습] [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
 | **`인공지능활용디지털경제플랫폼연구`** | [이론1] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [이론2 & 실습] [Business-Data-Analytics](https://github.com/thekimk/Business-Data-Analytics) |
-| **`금융데이터 사이언스`** | [All-About-Financial-Data-Science](https://github.com/thekimk/All-About-Financial-Data-Science) |
+| **`금융데이터 사이언스`** | [이론 & 실습] [All-About-Financial-Data-Science](https://github.com/thekimk/All-About-Financial-Data-Science) |
 
 ## ✋ Direction 
 - **[강의영상]:** 오프라인 및 온라인과 무관하게 `모든 강의영상`은 LMS에 업로드   
