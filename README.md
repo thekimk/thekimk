@@ -1,5 +1,5 @@
 # ✔️ KIM KYUNGWON <a href="https://sites.google.com/view/thekimk" target="_blank"><img src="https://img.shields.io/badge/Homepage-4285F4?style=flat-square&logo=Google&logoColor=white"/></a>
-- **`Assistant Professor in School of International Trade and Business`**
+- **`Assistant Professor in the School of International Trade and Business`**
 - **`College of Global Political Science and Economics`**
 - **`Incheon National University (INU)`**
 
