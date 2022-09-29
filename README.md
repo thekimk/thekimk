@@ -4,8 +4,8 @@
 - **`Incheon National University (INU)`**
 
 ## 📚 Lecture Material & Environment
-- **공지사항/메시지/강의영상 공유:** (인천대 경우) [LMS](http://cyber.inu.ac.kr/) $\rightarrow$ 개인정보(전화번호 & 이메일 등) `업데이트 필수`
 - **이론/실습 자료 공유:** 아래에서 `목적 또는 강의`에 따라 선택
+- **(인천대) 공지사항/메시지/강의영상 공유:** [LMS](http://cyber.inu.ac.kr/) $\rightarrow$ 개인정보(전화번호 & 이메일 등) `업데이트 필수`
 
 | 목적 및 강의명 | 이론 및 실습 자료 저장소명 |
 |---|---|
