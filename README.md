@@ -13,7 +13,7 @@
 | **`수업방향`** | [Curriculum-Guide](https://github.com/thekimk/Curriculum-Guide) |
 | **`E정보시스템`(23년부터 `디지털경제및데이터사이언스개론`)** | [이론] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [실습] [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
 | **`E데이터베이스`(23년부터 `비즈니스데이터애널리틱스`)** | [이론 & 실습] [Business-Data-Analytics](https://github.com/thekimk/Business-Data-Analytics) |
-| **`빅데이터`(23년부터 `인공지능`)** |  |
+| **`빅데이터`(23년부터 `AI비즈니스`)** |  |
 | **`비즈니스혁신을위한데이터사이언스응용`** | [이론] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [실습] [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
 | **`인공지능활용디지털경제플랫폼연구`** | [이론1] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [이론2 & 실습] [Business-Data-Analytics](https://github.com/thekimk/Business-Data-Analytics) |
 | **`금융데이터 사이언스`** | [이론 & 실습] [All-About-Financial-Data-Science](https://github.com/thekimk/All-About-Financial-Data-Science) |
