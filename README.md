@@ -11,13 +11,13 @@
 | 목적 및 강의 | 이론 및 실습 자료 저장소 |
 |---|---|
 | **`미래 인생 고민 및 설계`** | [KK-Insight](https://github.com/thekimk/KK-Insight) |
-| **`수업방향`** | [Curriculum-Guide](https://github.com/thekimk/Curriculum-Guide) |
-| **`E정보시스템`(23년부터 `디지털경제및데이터사이언스개론`)** | [이론] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [실습] [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
-| **`E데이터베이스`(23년부터 `비즈니스데이터애널리틱스`)** | [이론 & 실습] [Business-Data-Analytics](https://github.com/thekimk/Business-Data-Analytics) |
-| **`빅데이터`(23년부터 `인공지능기반의사결정`)** |  |
-| **`비즈니스혁신을위한데이터사이언스응용`** | [이론] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [실습] [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
-| **`인공지능활용디지털경제플랫폼연구`** | [이론1] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [이론2 & 실습] [Business-Data-Analytics](https://github.com/thekimk/Business-Data-Analytics) |
-| **`금융데이터 사이언스`** | [이론 & 실습] [All-About-Financial-Data-Science](https://github.com/thekimk/All-About-Financial-Data-Science) |
+| **`수업방향 및 가이드`** | [Curriculum-Guide](https://github.com/thekimk/Curriculum-Guide) |
+| **`E정보시스템`(2023년부터 `디지털경제및데이터사이언스`)** <br> **`(Digital Economy and Data Science)`** | [이론] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [실습] [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
+| **`E데이터베이스`(2023년부터 `비즈니스데이터애널리틱스`)** <br> **`(Business Data Analytics)`** | [이론1] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [이론2 & 실습] [Business-Data-Analytics](https://github.com/thekimk/Business-Data-Analytics) |
+| **`빅데이터`(2023년부터 `인공지능의사결정`)** <br> **`(AI-Driven Decision Making)`** |  |
+| **`비즈니스혁신을위한데이터사이언스응용`** <br> **`(Data Science Applications for Business Innovation)`** | [이론] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [실습] [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
+| **`인공지능활용디지털경제플랫폼연구`** <br> **`(Digital Economy Platform using Artificial Intelligence)`** | [이론1] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [이론2 & 실습] [Business-Data-Analytics](https://github.com/thekimk/Business-Data-Analytics) |
+| **`금융공학을위한 데이터사이언스`** <br> **`(Data Science for Quant Finance)`** | [이론 & 실습] [All-About-Financial-Data-Science](https://github.com/thekimk/All-About-Financial-Data-Science) |
 
 ## ✋ Direction 
 - **[수업방식]:** 대학은 `온라인(8주)+오프라인(7주) 혼합형`으로 진행하고, 대학원은 모두 `오프라인`으로 진행       
