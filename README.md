@@ -1,11 +1,11 @@
-# ✔️ KIM KYUNGWON <a href="https://sites.google.com/view/thekimk" target="_blank"><img src="https://img.shields.io/badge/Homepage-4285F4?style=flat-square&logo=Google&logoColor=white"/></a>
+# ✔️ KIM KYUNGWON <a href="https://sites.google.com/view/thekimk" target="_blank"><img src="https://img.shields.io/badge/Homepage-4285F4?style=flat-square&logo=Google&logoColor=white"/></a> <a href="https://scholar.google.com/citations?hl=ko&user=nHPe-4UAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat-square&logo=Google Scholar&logoColor=white"/></a> <a href="https://www.youtube.com/channel/UCEYxJNI5dhnn_CdC9BEWTuA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a> <a href="https://orcid.org/0000-0001-6530-8426" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"/></a> 
 - **`Assistant Professor in the School of International Trade and Business`**
 - **`College of Global Political Science and Economics`**
 - **`Incheon National University (INU)`**
 
 ## 📚 Lecture Material
 - **[공지사항]:** [인천대 LMS](http://cyber.inu.ac.kr/) $\rightarrow$ 개인정보(전화번호 & 이메일 등) `업데이트 필수`
-- **[강의영상]:** 온라인/오프라인의 `모든 강의영상`은 [인천대 LMS](http://cyber.inu.ac.kr/) 또는 [Youtube(지속업데이트)](https://www.youtube.com/channel/UCEYxJNI5dhnn_CdC9BEWTuA)에 업로드
+- **[강의영상]:** 온라인/오프라인의 `모든 강의영상`은 [인천대 LMS](http://cyber.inu.ac.kr/) 또는 [YouTube(지속업데이트)](https://www.youtube.com/channel/UCEYxJNI5dhnn_CdC9BEWTuA)에 업로드
 - **[강의자료]:** 아래 리스트에서 `목적 또는 강의`에 따라 선택
 
 | 목적 및 강의 | 이론 및 실습 자료 저장소 |
