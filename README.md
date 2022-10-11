@@ -61,7 +61,7 @@
 > (2) **[KK-Insight](https://github.com/thekimk/KK-Insight):** `크크인싸이트` 저장소에 관련내용 공유중 또는 토론 가능(`빠른 실시간`)       
 > (3) **[INU LMS](http://cyber.inu.ac.kr/):** `메시지/게시판`으로 가능하며 알람이 잘 오지않아 (`느린 실시간`)         
 > (4) **[스타인유](https://starinu.inu.ac.kr/index.do):** `공식` 상담신청 및 결과공유 `플랫폼`이나 (`매우느린 언젠가`)  
-> (5) **이메일:** thekimk.kr@gmail.com, kk@inu.ac.kr (`느린 실시간`)        
+> (5) **이메일:** <a href="mailto:thekimk.kr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thekimk.kr@gmail.com"/></a> <a href="mailto:thekimk@inu.ac.kr"><img src="https://img.shields.io/badge/INU Mail-005FF9?style=flat-square&logo=INU Mail&logoColor=white&link=mailto:thekimk@inu.ac.kr"/></a> (`느린 실시간`)        
 > (6) **전화:** 032-835-8525 (`긴급 실시간`)        
 >
 - **[오프라인]** 수업 전/중/후 바로 `언제든` 가능하지만, 위 채널들로 미리 `일정잡고 오피스(14호관 422호)`에서 진행    
