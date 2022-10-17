@@ -11,8 +11,8 @@
 | 목적 및 강의 | 이론 및 실습 자료 저장소 |
 |---|---|
 | **`미래 인생 고민 및 설계`** | [KK-Insight](https://github.com/thekimk/KK-Insight) |
-| **`수업방향 및 가이드`** | [Curriculum-Guide](https://github.com/thekimk/Curriculum-Guide) |
-| **`수업 전반 및 실습 질문과 답변`** | [Question-and-Answer](https://github.com/thekimk/Question-and-Answer) |
+| **`강의방향 및 가이드`** | [Curriculum-Guide](https://github.com/thekimk/Curriculum-Guide) |
+| **`강의진행 및 실습 질문과 답변`** | [Question-and-Answer](https://github.com/thekimk/Question-and-Answer) |
 | **`E정보시스템`(2023년부터 `비즈니스데이터사이언스`)** <br> **`(Business Data Science)`** | [이론] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [실습] [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
 | **`E데이터베이스`(2023년부터 `디지털전환과기계학습`)** <br> **`(Digital Transformation and Machine Learning)`** | [이론1] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [이론2 & 실습] [All-About-Machine-Learning](https://github.com/thekimk/Business-Data-Analytics) |
 | **`빅데이터`(2023년부터 `인공지능의사결정`)** <br> **`(AI-Driven Decision Making)`** |  |
