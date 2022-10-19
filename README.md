@@ -13,9 +13,9 @@
 | **`미래 인생 고민 및 설계`** | [KK-Insight](https://github.com/thekimk/KK-Insight) |
 | **`강의방향 및 수강가이드`** | [Curriculum-Guide](https://github.com/thekimk/Curriculum-Guide) |
 | **`강의진행 및 파이썬실습 Q&A`** | [Question-and-Answer](https://github.com/thekimk/Question-and-Answer) |
-| **`E정보시스템`(2023년부터 `비즈니스데이터사이언스`)** <br> **`(Business Data Science)`** | [이론] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [실습] [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
-| **`E데이터베이스`(2023년부터 `디지털전환과기계학습`)** <br> **`(Digital Transformation and Machine Learning)`** | [이론1] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [이론2 & 실습] [All-About-Machine-Learning](https://github.com/thekimk/Business-Data-Analytics) |
-| **`빅데이터`(2023년부터 `인공지능의사결정`)** <br> **`(AI-Driven Decision Making)`** |  |
+| **`E정보시스템`( `비즈니스데이터사이언스`)** <br> **`(Business Data Science)`** | [이론] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [실습] [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
+| **`디지털전환과기계학습`(구 `E데이터베이스`)** <br> **`(Digital Transformation and Machine Learning)`** | [이론1] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [이론2 & 실습] [All-About-Machine-Learning](https://github.com/thekimk/Business-Data-Analytics) |
+| **`인공지능의사결정`(구 `빅데이터`)** <br> **`(AI-Driven Decision Making)`** |  |
 | **`비즈니스혁신을위한데이터사이언스응용`** <br> **`(Data Science Applications for Business Innovation)`** | [이론] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [실습] [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
 | **`인공지능활용디지털경제플랫폼연구`** <br> **`(Digital Economy Platform using Artificial Intelligence)`** | [이론1] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [이론2 & 실습] [All-About-Machine-Learning](https://github.com/thekimk/Business-Data-Analytics) |
 | **`금융공학을위한 데이터사이언스`** <br> **`(Data Science for Quant Finance)`** | [이론 & 실습] [All-About-Financial-Data-Science](https://github.com/thekimk/All-About-Financial-Data-Science) |
