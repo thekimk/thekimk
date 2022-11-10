@@ -61,7 +61,7 @@
 - **[온라인]** 아래 `6종 채널 클릭`하여 원하는 방식으로 진행 가능하며 `일정만 정하고` 오프라인으로도 가능    
 >
 > (1) **[카카오톡채널](http://pf.kakao.com/_Exfqqb):** 카카오톡 채널에서 `김경원 교수` 검색하여 확인 가능 (`빠른 실시간`)    
-> (2) **이메일:** <a href="mailto:thekimk.kr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thekimk.kr@gmail.com"/></a> <a href="mailto:thekimk@inu.ac.kr"><img src="https://img.shields.io/badge/INU Mail-005FF9?style=flat-square&logo=INU Mail&logoColor=white&link=mailto:thekimk@inu.ac.kr"/></a> (`느린 실시간`)    
+> (2) **이메일:** <a href="mailto:thekimk.kr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thekimk.kr@gmail.com"/></a> <a href="mailto:thekimk@inu.ac.kr"><img src="https://img.shields.io/badge/INU Mail-005FF9?style=flat-square&logo=INU Mail&logoColor=white&link=mailto:thekimk@inu.ac.kr"/></a> (`빠른 실시간`)    
 > (3) **[KK-Insight](https://github.com/thekimk/KK-Insight):** `크크인싸이트` 저장소에 관련내용 공유중 또는 토론 가능(`빠른 실시간`)       
 > (4) **[INU LMS](http://cyber.inu.ac.kr/):** `메시지/게시판`으로 가능하며 알람이 잘 오지않아 (`느린 실시간`)         
 > (5) **[스타인유](https://starinu.inu.ac.kr/index.do):** `공식` 상담신청 및 결과공유 `플랫폼`이나 (`매우느린 언젠가`)  
