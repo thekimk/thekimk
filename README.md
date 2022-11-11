@@ -10,7 +10,7 @@
 
 | 목적 및 강의 | 자료 저장소 |
 |---|---|
-| **`미래 인생 고민 및 설계`** | [KK-Insight](https://github.com/thekimk/KK-Insight) |
+| **`미래 고민 및 설계`** | [KK-Insight](https://github.com/thekimk/KK-Insight) |
 | **`강의방향 및 수강가이드`** | [Curriculum-Guide](https://github.com/thekimk/Curriculum-Guide) |
 | **`강의진행 및 파이썬실습 Q&A`** | [Question-and-Answer](https://github.com/thekimk/Question-and-Answer) |
 | **`데이터준비(Refinitiv Workspace)`** | [Refinitiv-Workspace](https://github.com/thekimk/Refinitiv-Workspace) |
