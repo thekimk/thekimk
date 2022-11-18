@@ -21,7 +21,7 @@
 | **`인공지능활용디지털경제플랫폼연구`** <br> **`(Digital Economy Platform using Artificial Intelligence)`** | [이론1] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [이론2 & 실습] [All-About-Machine-Learning](https://github.com/thekimk/Business-Data-Analytics) |
 | **`시계열 통계추론 및 딥러닝 분석`** <br> **`(Time Series Statistical Inference and Deep Learning)`** | [이론 & 실습] [All-About-Time-Series-Analysis](https://github.com/thekimk/All-About-Time-Series-Analysis) |
 | **`금융공학을위한 데이터사이언스`** <br> **`(Data Science for Quant Finance)`** | [이론 & 실습] [All-About-Financial-Data-Science](https://github.com/thekimk/All-About-Financial-Data-Science) |
-| **`DEBA(Digital Economy & Business Analytics) Study`** | [DEBA-Study](https://github.com/thekimk/DEBA-Study) |
+| **`Study of DEBA(Digital Economy & Business Analytics)`** | [DEBA-Study](https://github.com/thekimk/DEBA-Study) |
 
 ## ✋ Direction 
 - **[강의방식]:** 대학은 `온라인(8주)+오프라인(7주) 혼합형`으로 진행하고, 대학원은 모두 `오프라인`으로 진행       
