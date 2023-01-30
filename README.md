@@ -16,7 +16,9 @@
 | **`데이터준비 (Refinitiv Workspace)`** | [Refinitiv-Workspace](https://github.com/thekimk/Refinitiv-Workspace) |
 | **`확률, 통계, 알고리즘, 시각화, 파이썬 준비`** | [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) |
 | **`데이터분석 도구 파이썬 프로그래밍 튜토리얼`** | [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
-| **`데이터분석 프로세스 이해 및 머신러닝 활용 문제해결`** | [All-About-Machine-Learning](https://github.com/thekimk/Business-Data-Analytics) |
+| **`데이터분석 프로세스 이해 및 머신러닝 활용 문제해결`** | [All-About-Machine-Learning](https://github.com/thekimk/All-About-Machine-Learning) |
+| **`시계열 데이터 처리 및 시계열 알고리즘 활용 문제해결`** | [All-About-Time-Series-Analysis](https://github.com/thekimk/All-About-Time-Series-Analysis) |
+| **`인공지능 활용 의사결정을 위한 딥러닝 알고리즘 활용`** | [All-About-Deep-Learning](https://github.com/thekimk/All-About-Deep-Learning) |
 | **`비즈니스데이터사이언스이해`** <br> **`(Business Data Science)`** | [이론] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [실습] [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
 | **`디지털비즈니스애널리틱스`** <br> **`(Digital Business Analytics)`** | [이론1] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [이론2 & 실습] [All-About-Machine-Learning](https://github.com/thekimk/Business-Data-Analytics) |
 | **`인공지능기반의사결정`** <br> **`(AI Driven Decision Making)`** | [이론1 & 실습] [All-About-Machine-Learning](https://github.com/thekimk/Business-Data-Analytics) <br> [이론2 & 실습] |
