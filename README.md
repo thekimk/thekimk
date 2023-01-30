@@ -24,7 +24,6 @@
 | **`인공지능기반의사결정`** <br> **`(AI Driven Decision Making)`** | [이론1 & 실습] [All-About-Machine-Learning](https://github.com/thekimk/Business-Data-Analytics) <br> [이론2 & 실습] |
 | **`비즈니스혁신을위한데이터사이언스응용`** <br> **`(Data Science Applications for Business Innovation)`** | [이론] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [실습] [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
 | **`인공지능활용디지털경제플랫폼연구`** <br> **`(Digital Economy Platform using Artificial Intelligence)`** | [이론1] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [이론2 & 실습] [All-About-Machine-Learning](https://github.com/thekimk/Business-Data-Analytics) |
-| **`시계열 데이터 처리 및 시계열 딥러닝 분석`** <br> **`(Time Series Statistical Inference and Deep Learning)`** | [이론 & 실습] [All-About-Time-Series-Analysis](https://github.com/thekimk/All-About-Time-Series-Analysis) |
 | **`금융공학을위한 데이터사이언스`** <br> **`(Data Science for Quant Finance)`** | [이론 & 실습] [All-About-Financial-Data-Science](https://github.com/thekimk/All-About-Financial-Data-Science) |
 | **`Digital Economy & Business Analytics Study`** | [DEBA-Study](https://github.com/thekimk/DEBA-Study) |
 
