@@ -63,12 +63,14 @@
 | 물론, `족보를 통해 본인 인생을 남의 인생으로 복사`해서 수강해도 되지만 나중엔 `시험도 족보도 없는 본인에게 아무도 관심 없는 상황이 곧 올텐데, 그때 발견하게 될 족보없인 스스로 아무것도 해내지 못하는 본인의 현실 모습에 스스로 책임지고 감상하면 될것` |
 | `단!` 끝까지 완주한다면, 그동안 보유하지 못했던 `경쟁력, 역량 또는 잠재력` 발견할 수 있고 `세상 변화를 즐겁게 따라갈 수 있을 것!` |
 
+<a href="mailto:thekimk.kr@gmail.com">
+  
 ## ❓ Question and Talk    
 - `근황 및 캐주얼토크`, `강의질문`, `강의외 질문`이나 `인생 면담` 등 포함    
 - **[온라인]** 아래 `6종 채널 클릭`하여 원하는 방식으로 진행 가능하며 `일정만 정하고` 오프라인으로도 가능    
 >
 > (1) **[카카오톡채널](http://pf.kakao.com/_Exfqqb):** 카카오톡 채널에서 `김경원 교수` 검색하여 확인 가능 (`빠른 실시간`)    
-> (2) **이메일:** <a href="mailto:thekimk.kr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link"/></a> <a href="mailto:thekimk@inu.ac.kr"><img src="https://img.shields.io/badge/INU Mail-005FF9?style=flat-square&logo=INU Mail&logoColor=white&link=mailto:thekimk@inu.ac.kr"/></a> (`빠른 실시간`)    
+> (2) **이메일:** [Gmail](thekimk.kr@gmail.com), [Gmail](<a href="mailto:thekimk.kr@gmail.com">) <a href="mailto:thekimk.kr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thekimk.kr@gmail.com"/></a> <a href="mailto:thekimk@inu.ac.kr"><img src="https://img.shields.io/badge/INU Mail-005FF9?style=flat-square&logo=INU Mail&logoColor=white&link=mailto:thekimk@inu.ac.kr"/></a> (`빠른 실시간`)    
 > (3) **[KK-Insight](https://github.com/thekimk/KK-Insight):** `크크인싸이트` 저장소에 관련내용 공유중 또는 토론 가능(`빠른 실시간`)       
 > (4) **[INU LMS](http://cyber.inu.ac.kr/):** `메시지/게시판`으로 가능하며 알람이 잘 오지않아 (`느린 실시간`)         
 > (5) **[스타인유](https://starinu.inu.ac.kr/index.do):** `공식` 상담신청 및 결과공유 `플랫폼`이나 (`매우느린 언젠가`)  
