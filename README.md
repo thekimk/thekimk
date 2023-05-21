@@ -14,7 +14,7 @@
 | **`강의방향 및 수강가이드`** | [Curriculum-Guide](https://github.com/thekimk/Curriculum-Guide) |
 | **`강의진행 및 파이썬관련 Q&A`** | [Question-and-Answer](https://github.com/thekimk/Question-and-Answer) |
 | **`데이터준비 (Refinitiv Workspace)`** | [Refinitiv-Workspace](https://github.com/thekimk/Refinitiv-Workspace) |
-| **`확률, 통계, 알고리즘, 시각화, 파이썬 준비`** | [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) |
+| **`데이터분석 도구: 확률, 통계, 알고리즘, 시각화, 파이썬`** | [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) |
 | **`데이터분석 도구 파이썬 프로그래밍 튜토리얼`** | [Tutorial-Python-Programming](https://github.com/thekimk/Tutorial-Python-Programming) |
 | **`데이터분석 프로세스 이해 및 머신러닝 활용 문제해결`** | [All-About-Machine-Learning](https://github.com/thekimk/All-About-Machine-Learning) |
 | **`시계열 데이터 처리 및 시계열 알고리즘 활용 문제해결`** | [All-About-Time-Series-Analysis](https://github.com/thekimk/All-About-Time-Series-Analysis) |
