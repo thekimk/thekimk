@@ -28,7 +28,7 @@
 | **`인공지능활용디지털경제플랫폼연구`** <br> **`(Digital Economy Platform using Artificial Intelligence)`** | [선수과목] `비즈니스혁신을위한데이터사이언스응용/파이썬프로그래밍` <br> [이론1] [Tutorial-Probability-Statistics-Algorithm-DataScience](https://github.com/thekimk/Tutorial-Probability-Statistics-Algorithm-DataScience) <br> [이론2 & 실습] [All-About-Machine-Learning](https://github.com/thekimk/Business-Data-Analytics) |
 | **`금융공학을위한 데이터사이언스`** <br> **`(Data Science for Quant Finance)`** | [이론 & 실습] [All-About-Financial-Data-Science](https://github.com/thekimk/All-About-Financial-Data-Science) |
 | **`한국지능정보사회진흥원 K-ICT 빅데이터센터`** <br> **`데이터AI 활용 역량강화과정`** | [Lecture-NIA](https://github.com/thekimk/Lecture-NIA) |
-| **`AI 의사결정: 결정은 우리가, 분석은 기계가`** | [저서] [AI Decison Making](https://github.com/thekimk/AI-Decision-Making) |
+| **`AI 의사결정: 결정은 우리가, 분석은 기계가`** | [저서] [AI-Decison-Making](https://github.com/thekimk/AI-Decision-Making) |
 
 ## ✋ Direction 
 - **[수업특징]:** 
