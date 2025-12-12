@@ -5,7 +5,7 @@
 
 ## 📚 Lecture Material
 - **[공지사항]:** [인천대 LMS](http://cyber.inu.ac.kr/) $\rightarrow$ 개인정보(전화번호 & 이메일 등) `업데이트 필수`
-- **[강의영상]:** 온라인/오프라인의 `모든 강의영상`은 [인천대 LMS](http://cyber.inu.ac.kr/) 또는 [YouTube(지속업데이트)](https://www.youtube.com/channel/UCEYxJNI5dhnn_CdC9BEWTuA)에 업로드
+- **[강의영상]:** 온라인/오프라인의 `모든 강의영상`은 [인천대 LMS](http://cyber.inu.ac.kr/) 또는 [YouTube](https://www.youtube.com/channel/UCEYxJNI5dhnn_CdC9BEWTuA)에 지속적으로 업로드/업데이트
 - **[강의자료]:** 아래 리스트에서 `목적 또는 강의`에 따라 선택
 
 | 목적 및 강의 | 자료 저장소 |
