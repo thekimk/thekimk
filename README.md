@@ -64,5 +64,5 @@
 > (1) **[카카오톡채널](http://pf.kakao.com/_Exfqqb):** 카카오톡 채널에서 `김경원 교수` 검색하여 `개인톡` 사용 가능        
 > (2) **이메일:** thekimk.kr@gmail.com, thekimk@inu.ac.kr    
 > (3) **[INU LMS](http://cyber.inu.ac.kr/):** LMS 내 `메시지/게시판`으로 문의 가능    
-> (4) **[KK-Insight](https://github.com/thekimk/KK-Insight):** AI 의사결정이 왜 필요한지 또는 사회현실이 궁금하면, 최근 면담을 통해 담은 `공통된 질문들에 대한 답변`을 연재한 `크크인싸이트` 참고 및 토론 가능           
+> (4) **[KK-Insight](https://github.com/thekimk/KK-Insight):** AI 의사결정 필요성이나 현실이 궁금하면, 최근 면담들의 `질문과 답변`을 연재한 `크크인싸이트` 참고/토론           
 > (5) **전화:** 032-835-8525        
