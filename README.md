@@ -61,8 +61,8 @@
 - `근황 및 캐주얼토크`, `강의질문`, `강의외 질문`이나 `인생 면담` 등 포함    
 - 아래 중 원하는 `온라인` 방식으로 빠르게 가능하며 `일정만 정하고 오프라인(14호관422호)`에서도 가능    
 >
-> (1) **[카카오톡채널](http://pf.kakao.com/_Exfqqb):** 카카오톡 채널에서 `김경원 교수` 검색하여 `개인톡` 사용 가능        
-> (2) **이메일:** thekimk.kr@gmail.com, thekimk@inu.ac.kr    
-> (3) **[INU LMS](http://cyber.inu.ac.kr/):** LMS 내 `메시지/게시판`으로 문의 가능    
-> (4) **[KK-Insight](https://github.com/thekimk/KK-Insight):** AI 의사결정 필요성이나 현실이 궁금하면, 최근 면담들의 `질문과 답변`을 연재한 `크크인싸이트` 참고/토론           
-> (5) **전화:** 032-835-8525        
+> (0) **[KK-Insight](https://github.com/thekimk/KK-Insight):** AI 의사결정 필요성이나 현실이 궁금하면, 최근 면담들의 `질문과 답변`을 연재한 `크크인싸이트` 참고/토론 후,     
+> (1) **[카카오톡채널](http://pf.kakao.com/_Exfqqb):** 카카오톡 채널에서 `김경원 교수` 검색하여 `개인톡` 문의 가능        
+> (2) **이메일:** thekimk.kr@gmail.com, thekimk@inu.ac.kr 문의 가능     
+> (3) **[INU LMS](http://cyber.inu.ac.kr/):** LMS 내 `메시지/게시판` 문의 가능    
+> (4) **전화:** 032-835-8525 (긴급)        
